@@ -1,7 +1,7 @@
 let time = 60;
 
 // Redirect Link
-const redirectURL = "https://t.me/+bYDWwk5-xpNhNWE9";
+const redirectURL = "https://t.me/+Lb4p2LfdXclkNzI1";
 
 document.addEventListener("DOMContentLoaded", () => {
     document.querySelector(".join-btn").addEventListener("click", () => {
@@ -20,3 +20,4 @@ function countdown() {
         setTimeout(countdown, 1000);
     }
 }
+
